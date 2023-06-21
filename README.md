@@ -1,5 +1,3 @@
-# chat-app
-
 # Spring Boot Chat App
 
 This is a simple chat application built with Spring Boot, Java, Spring Boot WebSocket, HTML, CSS, and JavaScript. It allows users to connect and exchange messages in real-time.
