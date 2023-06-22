@@ -28,7 +28,7 @@ This is a simple chat application built with Spring Boot, Java, Spring Boot WebS
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/your-repo.git
+git clone [https://github.com/your-username/your-repo.git](https://github.com/tamerlankayak/chat-app.git)
 ```
 
 2. Navigate to the project directory:
